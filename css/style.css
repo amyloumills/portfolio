@@ -7,10 +7,10 @@
 /*Custom Properties*/
 
 :root {
-	--ff-primary: "Urbanist", sans-serif;
+	--ff-primary: "Assistant", sans-serif;
 
-	--fw-reg: 300;
-	--fw-bold: 400;
+	--fw-reg: 200;
+	--fw-bold: 800;
 
 	--clr-light: #fff;
 	--clr-dark: #303030;
