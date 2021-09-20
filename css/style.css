@@ -111,13 +111,12 @@ h3 {
 }
 
 .sectionSubtitle {
-	margin: 0;
 	font-size: var(--fs-h3);
 }
 .sectionSubtitleIntro,
 .sectionSubtitleAbout {
 	background: var(--clr-accent);
-	padding: 0.25em 1em;
+	padding: 0.4em;
 	font-family: var(--ff-primary);
 	margin-bottom: 1em;
 }
