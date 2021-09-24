@@ -10,6 +10,7 @@
 	--ff-primary: "Assistant", sans-serif;
 
 	--fw-reg: 200;
+	--fw-demibold: 400;
 	--fw-bold: 800;
 
 	--clr-light: #fff;
@@ -311,8 +312,6 @@ header {
 	.services {
 		display: flex;
 		max-width: 1000px;
-		margin-left: 0 auto;
-		margin-right: 0 auto;
 	}
 	.service + .service {
 		margin-left: 2em;
